@@ -472,9 +472,9 @@
     "rawColors": {
         "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
         "PRIMARY_100": "#3789E6",
-        "PRIMARY_130": "#dbeafa",
-        "PRIMARY_200": "#7eb3f0",
-        "PRIMARY_230": "#7eb3f0",
+        "PRIMARY_130": "#970124",
+        "PRIMARY_200": "#970124",
+        "PRIMARY_230": "#970124",
         "PRIMARY_300": "#3789E6",
         "PRIMARY_360": "#970124",
         "PRIMARY_400": "#0f4480",
@@ -501,8 +501,8 @@
         "BLACK_860": "#000000",
         "BLACK_900": "#000000",
         "BRAND_230": "#ffffff",
-        "BRAND_260": "#86b4ea",
-        "BRAND_360": "#4b96e7",
+        "BRAND_260": "#970124",
+        "BRAND_360": "#970124",
         "BRAND_500": "#970124",
         "BRAND_560": "#3789E6",
         "RED_400": "#2780E6",
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://i.imgur.com/9fIIRV4.png",
+        "url": "https://i.imgur.com/n56qiIE.png",
 	"alpha": 1
     },
     "plus": {
